@@ -91,7 +91,7 @@
                                     <div class="product-item bg-light">
                                         <div class="card">
                                             <div class="thumb-content">
-                                                @if($company->logo)<a href="{{ url('/company/' . $company->id) }}"><img class="card-img-top img-fluid" src="{{ asset(env('UPLOAD_PATH').'/thumb/' . $company->logo) }}"/></a>@endif
+                                                @if($company->logo)<a href="{{ route('company', [$company->id]) }}"><img class="card-img-top img-fluid" src="{{ asset(env('UPLOAD_PATH').'/thumb/' . $company->logo) }}"/></a>@endif
                                             </div>
                                             <div class="card-body">
                                                 <h4 class="card-title"><a href="{{ route('company', [$company->id]) }}">{{$company->name}}</a></h4>
