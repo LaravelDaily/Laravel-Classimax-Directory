@@ -13,18 +13,9 @@
 
 @yield('content')
 
-
-<!--============================
-=            Footer            =
-=============================-->
-
 @include('partialsMainTable.footer')
 
-
-
-
 </body>
-
 </html>
 
 
