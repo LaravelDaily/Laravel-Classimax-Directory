@@ -45,6 +45,7 @@ class Company extends Model
     {
         return $this->belongsToMany(Category::class, 'category_company')->withTrashed();
     }
+
     public function scopeFilterByRequest($query, Request $request)
     {
         if ($request->input('city_id')) {

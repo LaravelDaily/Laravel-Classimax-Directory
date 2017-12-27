@@ -1,7 +1,7 @@
 <?php
  Route::get('/', 'HomePageController@index');
  Route::get('search', 'HomePageController@table')->name('search');
- Route::get('categories/{category}', 'HomePageController@show')->name('category');
+ Route::get('categories/{category}', 'HomePageController@category')->name('category');
  Route::get('companies/{company}', 'HomePageController@company')->name('company');
 
 // Authentication Routes...

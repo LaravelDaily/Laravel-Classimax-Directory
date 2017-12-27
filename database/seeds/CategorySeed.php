@@ -12,7 +12,6 @@ class CategorySeed extends Seeder
     public function run()
     {
         $items = [
-            
             ['id' => 1, 'name' => 'Restaurant', 'icon' => 'fa fa-cutlery'],
             ['id' => 2, 'name' => 'Barber', 'icon' => 'fa fa-scissors'],
             ['id' => 3, 'name' => 'IT', 'icon' => 'fa fa-laptop'],
@@ -21,7 +20,6 @@ class CategorySeed extends Seeder
             ['id' => 6, 'name' => 'Bar', 'icon' => 'fa fa-glass'],
             ['id' => 7, 'name' => 'Lawyer', 'icon' => 'fa fa-briefcase'],
             ['id' => 8, 'name' => 'Accommodation', 'icon' => 'fa fa-bed'],
-
         ];
 
         foreach ($items as $item) {
