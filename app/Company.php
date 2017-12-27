@@ -59,7 +59,7 @@ class Company extends Model
         }
         
         if ($request->input('search')) {
-            $query->where('name', '=', $request->input('search'));
+            $query->where('name', 'LIKE', '%'.$request->input('search').'%');
         }
 
         return $query;
