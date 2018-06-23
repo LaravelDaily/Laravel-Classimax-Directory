@@ -4,6 +4,13 @@ Simple project with classifieds database of companies/services/cities.
 
 __Notice__: We also released a [Vue.js version of this project](https://github.com/LaravelDaily/Classimax-Directory-Laravel-Vue).
 
+## Clickable live-demo
+
+[demo-classimax.quickadminpanel.com](http://demo-classimax.quickadminpanel.com)
+
+- __Admin Email__: admin@admin.com
+- __Admin Pass__: password
+
 ![Laravel Classimax screenshot](http://webcoderpro.com/laravel-classimax-demo.png)
 
 Front-end view is based on free Bootstrap template: [Classimax](https://themefisher.com/downloads/classimax-bootstrap-classified-responsive-theme/)
