@@ -11,13 +11,13 @@ __Notice__: We also released a [Vue.js version of this project](https://github.c
 - __Admin Email__: admin@admin.com
 - __Admin Pass__: password
 
-![Laravel Classimax screenshot](http://webcoderpro.com/laravel-classimax-demo.png)
+![Laravel Classimax screenshot](https://quickadminpanel.com/assets/pages/demos/demo-classimax-01.png)
 
 Front-end view is based on free Bootstrap template: [Classimax](https://themefisher.com/downloads/classimax-bootstrap-classified-responsive-theme/)
 
 ---
 
-![Laravel Classimax admin screenshot](http://webcoderpro.com/laravel-classimax-demo-admin.png)
+![Laravel Classimax admin screenshot](https://quickadminpanel.com/assets/pages/demos/demo-classimax-02.png)
 
 Adminpanel is generated with Laravel generator: [QuickAdminPanel.com](https://quickadminpanel.com)
 
