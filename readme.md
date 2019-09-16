@@ -2,7 +2,9 @@
 
 Simple project with classifieds database of companies/services/cities.
 
-__Notice__: We also released a [Vue.js version of this project](https://github.com/LaravelDaily/Classimax-Directory-Laravel-Vue).
+__Notice__: We released a [newer Laravel 6 version of this project](https://github.com/LaravelDaily/QuickAdminPanel-Classifieds-Directory)
+
+- - - - -
 
 ## Clickable live-demo
 
